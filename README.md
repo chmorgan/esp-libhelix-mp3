@@ -1,3 +1,3 @@
-# ESP32-libhelix-mp3
+# esp-libhelix-mp3
 
-ESP32 component for the libhelix-mp3 mp3 decoding library.
+ESP32 (and others) component for the libhelix-mp3 mp3 decoding library.
